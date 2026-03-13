@@ -1,5 +1,10 @@
+tensorflow
+numpy
 streamlit
-tensorflow-cpu==2.15.0
-Pillow
+pillow
 pandas
-numpy<2.0.0
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+datetime

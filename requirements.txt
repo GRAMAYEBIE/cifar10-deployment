@@ -1,11 +1,5 @@
-tensorflow
-numpy
 streamlit
-pillow
-pandas
-matplotlib
-seaborn
-scikit-learn
-opencv-python
-datetime
 tensorflow-cpu
+Pillow
+pandas
+numpy

@@ -1,15 +1,11 @@
-# --- Frameworks de Deep Learning ---
 tensorflow
 numpy
-
-# --- Interface Web Streamlit ---
 streamlit
 pillow
 pandas
-
-# --- Analyse et Visualisation ---
 matplotlib
 seaborn
 scikit-learn
 opencv-python
 datetime
+tensorflow-cpu
